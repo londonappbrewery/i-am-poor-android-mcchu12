@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">I Am Poor</string>
+    <string name="caption">Or am I?</string>
+    <string name="rich">I Am Rich!</string>
+    <string name="confirm">Yes. Yes, I am!</string>
 </resources>
